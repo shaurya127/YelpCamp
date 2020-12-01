@@ -104,7 +104,7 @@ module.exports = [
         latitude: 39.768403,
         longitude: -86.158068,
         population: "843393",
-        rank: "12",
+        rank: "13",
         state: "Indiana",
     },
     {
